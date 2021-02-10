@@ -3,7 +3,7 @@ from .models import City
 from .forms import CityForm
 import requests
 
-url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid=6102c0cf6cc8d69dec90ecac3f2dbae5'
+url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid='
 
 # Create your views here.
 
